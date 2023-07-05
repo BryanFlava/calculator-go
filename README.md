@@ -1,2 +1,4 @@
-# calculator-go
-Membuat Kalkulator Sederhana Menggunakan Golang
+# Membuat Kalkulator Sederhana Menggunakan Golang
+
+1. Menginstal Golang :
+
