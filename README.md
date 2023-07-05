@@ -73,6 +73,10 @@ Kalkulator yang akan kita bangun akan memiliki fitur-fitur berikut:
 
 8. Simpan dan jalankan program dengan menggunakan perintah `go run main.go` pada terminal. Anda akan diminta untuk memasukkan operator dan dua angka. Setelah memasukkan input, program akan menghitung hasilnya dan mencetaknya di layar.
 
+## Hasil Output
+
+![Golang Logo](https://raw.githubusercontent.com/BryanFlava/asset-gambar/main/Screenshot%202023-07-05%20191405.png)
+
 ## Instalasi Golang
 Berikut adalah langkah-langkah untuk menginstal Golang:
 
